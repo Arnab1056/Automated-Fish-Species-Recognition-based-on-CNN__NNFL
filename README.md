@@ -2,4 +2,4 @@
 
 *  All codes are included in the .ipynb file  
 *  And the dataset is uploaded in the googledrive  
-*  the drive link is inside the Dataset_drivelink_fil
+*  the drive link is inside the Dataset_drive_link_file
